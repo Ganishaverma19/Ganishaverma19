@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Ganisha Verma 
   
-Here's a balanced version:  
 
 - 🔭 I’m currently working on **building interactive and responsive web applications**.  
 - 🌱 I’m currently learning **JavaScript, React, and Tailwind CSS**.  

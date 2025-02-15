@@ -6,8 +6,7 @@ Here's a balanced version:
 - 🌱 I’m currently learning **JavaScript, React, and Tailwind CSS**.  
 - 👯 I’m looking to collaborate on **frontend projects that need clean and modern designs**.  
 - 🤔 I’m looking for help with **optimizing frontend performance and animations**.  
-- 💬 Ask me about **HTML, CSS, JavaScript, and frontend frameworks**.  
-- 📫 How to reach me:   
+- 💬 Ask me about **HTML, CSS, JavaScript, and frontend frameworks**.   
 - 😄 Pronouns: **She/Her**.  
 - ⚡ Fun fact: **CSS can create 3D effects without any JavaScript!** 🎨✨  
 

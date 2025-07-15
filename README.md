@@ -2,7 +2,7 @@
   
 
 - 🔭 I’m currently working on **building interactive and responsive web applications**.  
-- 🌱 I’m currently learning **JavaScript, React, and Tailwind CSS**.  
+- 🌱 I’m currently learning **React**.  
 - 👯 I’m looking to collaborate on **frontend projects that need clean and modern designs**.  
 - 🤔 I’m looking for help with **optimizing frontend performance and animations**.  
 - 💬 Ask me about **HTML, CSS, JavaScript, and frontend frameworks**.   
